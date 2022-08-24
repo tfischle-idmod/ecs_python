@@ -6,4 +6,5 @@ After componentisation actual class that contains references can be removed and 
 
 # References
 Section Component: https://gameprogrammingpatterns.com/component.html </br>
-Data-Locality: https://gameprogrammingpatterns.com/data-locality.html
+Data-Locality: https://gameprogrammingpatterns.com/data-locality.html </br>
+Components: https://www.dataorienteddesign.com/dodbook/node5.html </br>
