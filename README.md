@@ -8,3 +8,4 @@ After componentisation actual class that contains references can be removed and 
 Section Component: https://gameprogrammingpatterns.com/component.html </br>
 Data-Locality: https://gameprogrammingpatterns.com/data-locality.html </br>
 Components: https://www.dataorienteddesign.com/dodbook/node5.html </br>
+WikiPedia: https://en.wikipedia.org/wiki/Entity_component_system </br>
